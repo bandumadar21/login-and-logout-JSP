@@ -1,0 +1,21 @@
+body{
+    background:#51e2f5;
+}
+div{
+    margin-top:100px;
+    display:flex;
+    justify-content:center;
+}
+span{
+    border:5px solid darkblue;
+    max-width:500px;
+    padding:30px;
+    border-radius:20px;
+    font-size:20px;
+    
+a{
+    margin-top:50px;
+    color:blue;
+    font-weight:bold;
+    text-align:center;
+}
